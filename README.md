@@ -35,4 +35,4 @@ I love everything related to Pokemon, building Legos, playing video games (like 
 
 ### 🔎 Have a look at my profile: 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0B65C2?style=for-the-badge&logo=LinkedIn&logoColor=white)(https://www.linkedin.com/in/sarah-watremet-0ab26464/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0B65C2?style=for-the-badge&logo=LinkedIn&logoColor=white?src=https://www.linkedin.com/in/sarah-watremet-0ab26464/)
