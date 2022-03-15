@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 After 6 years working as HR Business Partner, including HRBP for Tech teams, I decided to reorientate my career and start a training to become a Software Developer. So here I am, learning to become a Software Developer at Ada Tech School (Paris, France)!
 
-🌱 I’m currently learning:
+## 🌱 I’m currently learning:
 
 Apart from my time at school, I'm also following courses on React and on Swift. As a future personal project, I would like to create a Quizz App with Swift. TBC!
 
