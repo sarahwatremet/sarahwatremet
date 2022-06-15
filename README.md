@@ -21,7 +21,7 @@ After 6 years working as HR Business Partner, including HRBP for Tech teams, I d
 
 ## 🌱 I’m currently learning:
 
-Apart from my time at school, I'm also following courses on React and on Swift. As a future personal project, I would like to create a Quizz App with Swift. TBC!
+The 9-months full-time period at school is now over, and I will start my apprenticeship as an iOS developer in September at Back Market (yay!). So in the meantime, I keep practising Swift and SwiftUI by building an Animal Crossing App, which aims to help having an inventory of fish, bugs, deep sea animals, and artcrafts you can get in the game.
 
 ## 📝 At school:
 
