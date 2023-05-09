@@ -17,17 +17,21 @@ Here are some ideas to get you started:
 
 ## 👀 About Me:
 
-After 6 years working as HR Business Partner, including HRBP for Tech teams, I decided to reorientate my career and start a training to become a Software Developer at Ada Tech School (Paris, France). 
-I've joined Back Market as iOS Developer Apprentice for a year.
+After 6 years working as HR Business Partner, including HRBP for Tech teams, I decided to reorientate my career and start a training to become a Software Developer at Ada Tech School (Paris, France).
+
+On September 5th 2022, I've joined Back Market as iOS Developer Apprentice for a year 🤓
 
 ## 💻 My apprenticeship:
 
 During the first half of my apprenticeship, I worked on rebuilding an internal app entirely with SwiftUI. This app aims to be used by other developers, EMs, PMs, QAs... by selecting a project, a branch, and a workflow, to directly trigger a build on Bitrise from the app.
+
 For the second half of my apprenticeship, I joined a squad to work a bit on Search&Recommendation and mostly on the Product Page, on Back Market's main iOS app. I either handle tickets on my own, or pair-programme with my mentor.
 
 ## 🌱 I’m currently learning:
 
-The 9-months full-time period at school is now over, and I started my apprenticeship as an iOS developer at Back Market (yay!) on September 5th. I keep practising Swift and SwiftUI on my personal time and during Fridays at school by building an Animal Crossing App, which aims to help having an inventory of fish, bugs, deep sea animals, and artcrafts you can get in the game.
+I keep practising Swift and SwiftUI on my personal time and during Fridays at school by building an Animal Crossing App, which aims to help having an inventory of fish, bugs, deep sea animals, and artcrafts you can get in the game.
+
+I also intend to start a new app project using Firebase (spoiler: it will be about Legos 🏗️).
 
 ## 📝 More about the school:
 
